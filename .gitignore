@@ -1,0 +1,18 @@
+# Local personal data and generated files
+/profile/*
+!/profile/.gitkeep
+/jobs/*
+!/jobs/.gitkeep
+/resume/*
+!/resume/.gitkeep
+/data/*
+!/data/.gitkeep
+
+# Local workspace scratch and outputs
+/work/
+/outputs/
+
+# Secrets
+.env
+.env.*
+!.env.example
